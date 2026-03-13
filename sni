@@ -1,0 +1,15 @@
+-n {sni} -Qr -f-204 -s1:5+sm -a1 -As -d1 -s3+s -s5+s -q7 -a1 -As -o2 -f-43 -a1 -As -r5 -Mh -s1:5+s -s3:7+sm -a1
+-n {sni} -Qr -f-205 -a1 -As -s1:3+sm -a1 -As -s5:8+sm -a1 -As -d3 -q7 -o2 -f-43 -f-85 -f-165 -r5 -Mh -a1
+-d1+s -s50+s -a1 -As -f20 -r2+s -a1 -At -d2 -s1+s -s5+s -s10+s -s15+s -s25+s -s35+s -s50+s -s60+s -a1
+-f1+nme -t6 -a1 -As -n {sni} -Qr -s1:6+sm -a1 -As -s5:12+sm -a1 -As -d3 -q7 -r6 -Mh -a1
+-f1 -t5 -n {sni} -q3+h -Qr -f2 -q1 -r1+s -t15 -q1 -o2 -a1
+-n {sni} -d2:5:2+h -f-3 -r2+sm -o2 -o50+s -r2+s -f-4 -a1
+-o1 -r-5+se -a1 -At,r,s -d1 -n {sni} -Qr -f-1 -a1
+-n {sni} -Qr -f6+nr -d2 -d11 -f9+hm -o3 -t7 -a1
+-n {sni} -Qr -d5+sm -f3+sm -o2 -t4 -a1
+-n {sni} -Qr -f209 -s1+sm -R1-3 -a1
+-s4+sn -r9+s -Qr -n {sni} -S -a1
+-n {sni} -Qr -m0x02 -f-1 -d7 -a1
+-n {sni} -Qr -f-1 -r1+s -a1
+-n {sni} -Qr -d1:3 -f-1 -a1
+-n {sni} -Qr -d1 -f-1
